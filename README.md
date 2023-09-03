@@ -1,3 +1,3 @@
-# SO-TP 🇨
+# SO-TP
 
 Final grade: 14
